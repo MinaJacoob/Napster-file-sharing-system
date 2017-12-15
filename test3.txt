@@ -1,0 +1,1 @@
+peers can act as a server and a peer at the same time
